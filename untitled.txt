@@ -1,3 +1,10 @@
+//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=50; expire=2546249531
+//support-url: https://t.me/katafex
+//profile-web-page-url: https://katafex.com
+
+
 vless://df434087-13a8-46c8-b03c-663b518c7451@icook.hk:443?path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&fragment=&security=tls&encryption=none&host=fastpurnet.pages.dev&fp=randomized&type=ws&sni=fastpurnet.pages.dev#t.me%2Fpurnet++purnet
 vless://df434087-13a8-46c8-b03c-663b518c7451@icook.hk:443?path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&fragment=&security=tls&encryption=none&host=fastpurnet.pages.dev&fp=randomized&type=ws&sni=fastpurnet.pages.dev#t.me%2Fpurnet++purnet
 vless://df434087-13a8-46c8-b03c-663b518c7451@icook.hk:443?path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&fragment=&security=tls&encryption=none&host=fastpurnet.pages.dev&fp=randomized&type=ws&sni=fastpurnet.pages.dev#t.me%2Fpurnet++purnet
