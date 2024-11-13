@@ -33,18 +33,18 @@ warp://162.159.192.180:908/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp
 
 warp://[2606:4700:d1::9e08:97f5:a4b2:665f]:1018/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d1::9e08:97f5:a4b2:665f]:1018/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Super-WoW-IPv6🇩🇪
 
-warp://[2606:4700:d1::9d2e:e1f2:3aa9:a108]:1018/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d1::9d2e:e1f2:3aa9:a108]:1018/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Super-WoW-IPv6🇩🇪
+warp://[2606:4700:d1::9d2e:e1f2:3aa9:a108]:1018/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d1::9d2e:e1f2:3aa9:a108]:1018/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Super-1WoW-IPv6🇩🇪
 
 warp://[2606:4700:d1::9f49:c7d6:78ae:b6ab]:859/?ifp=30-40&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d1::9f49:c7d6:78ae:b6ab]:859/?ifp=30-40&ifps=50-100&ifpd=3-6&ifpm=m4#Super98-WoW-IPv6🇩🇪
 
-warp://188.114.98.160:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m3&&detour=warp://188.114.98.160:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m3#Super98-WoW-IPv4🇩🇪
+warp://188.114.98.160:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m3&&detour=warp://188.114.98.160:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m3#Super98-1WoW-IPv4🇩🇪
 
-warp://188.114.99.88:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m5&&detour=warp://188.114.99.88:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m5#Super98-WoW-IPv4🇩🇪
+warp://188.114.99.88:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m5&&detour=warp://188.114.99.88:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m5#Super98-WooW-IPv4🇩🇪
 
-warp://162.159.192.130:988/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp://162.159.192.130:988/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6#Super98-WoW-IPv4🇩🇪
+warp://162.159.192.130:988/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp://162.159.192.130:988/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6#Super98-WoooW-IPv4🇩🇪
 
-warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6#Super98-WoW-IPv6🇩🇪
+warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6#Super98-WoiW-IPv6🇩🇪
 
-warp://[2606:4700:d1::9d7:d87b:2a70:9c01]:859/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4&&detour=warp://[2606:4700:d1::9d7:d87b:2a70:9c01]:859/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4#Super98-WoW-IPv6🇩🇪
+warp://[2606:4700:d1::9d7:d87b:2a70:9c01]:859/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4&&detour=warp://[2606:4700:d1::9d7:d87b:2a70:9c01]:859/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4#Super98-WouW-IPv6🇩🇪
 
-warp://[2606:4700:d0::1458:32a1:f454:4a7b]:942/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4#Super98
+warp://[2606:4700:d0::1458:32a1:f454:4a7b]:942/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4#Super908
