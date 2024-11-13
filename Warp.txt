@@ -46,5 +46,3 @@ warp://162.159.192.130:988/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp:/
 warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6#Super98-WoiW-IPv6🇩🇪
 
 warp://[2606:4700:d1::9d7:d87b:2a70:9c01]:859/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4&&detour=warp://[2606:4700:d1::9d7:d87b:2a70:9c01]:859/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4#Super98-WouW-IPv6🇩🇪
-
-warp://[2606:4700:d0::1458:32a1:f454:4a7b]:942/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m4#Super908
