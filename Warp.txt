@@ -36,5 +36,4 @@ warp://[2606:4700:d1::9d2e:e1f2:3aa9:a108]:1018/?ifp=50-100&ifps=50-100&ifpd=3-6
 
 warp://[2606:4700:d1::9f49:c7d6:78ae:b6ab]:859/?ifp=30-40&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d1::9f49:c7d6:78ae:b6ab]:859/?ifp=30-40&ifps=50-100&ifpd=3-6&ifpm=m4#Super98-WoW-IPv6🇩🇪
 
-https://itshin.serv00.net/api/warpinator?license=aJ901pC5-8mV4Ke36-52QhK6n8&type=wireguard&auto=true
 
