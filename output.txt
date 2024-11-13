@@ -43,5 +43,3 @@ warp://188.114.99.88:8854/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m5&&detour=warp://
 
 warp://162.159.192.130:988/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp://162.159.192.130:988/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6#Super98-WoooW-IPv4🇩🇪
 
-warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6&&detour=warp://[2606:4700:d0::269b:b887:882a:9489]:1843/?ifp=10-20&ifps=10-20&ifpd=4-5&ifpm=m6#Super98-WoiW-IPv6🇩🇪
-
