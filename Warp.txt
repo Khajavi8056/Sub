@@ -29,20 +29,4 @@ warp://162.159.195.118:939?ifp=1-3&ifpm=m6#Warp 🇮🇷 IP&&detour=warp://188.1
 
 // WireGuard Configuration
 
-warp://p1@188.114.97.81:908?ifp=5-10&ifps=40-100&ifpd=4-8&ifpm=m4#Warp-IR2&&detour=warp://p2@188.114.97.81:908#Warp in Warp
-warp://p1@188.114.97.81:908?ifp=5-10&ifps=40-100&ifpd=4-8&ifpm=m4#Warp-Main2&&detour=warp://p2@188.114.97.81:908#Warp in Warp
-
-warp://p1@162.159.192.50:908?ifp=5-10&ifps=40-100&ifpd=4-8&ifpm=m4#Warp-IR3&&detour=warp://p2@162.159.192.50:908#Warp in Warp
-warp://p1@162.159.192.50:908?ifp=5-10&ifps=40-100&ifpd=4-8&ifpm=m4#Warp-Main3&&detour=warp://p2@162.159.192.50:908#Warp in Warp
-
-warp://p1@188.114.97.3:908?ifp=5-10&ifps=40-100&ifpd=4-8&ifpm=m4#Warp-IR4&&detour=warp://p2@188.114.97.3:908#Warp in Warp
-warp://p1@188.114.97.3:908?ifp=5-10&ifps=40-100&ifpd=4-8&ifpm=m4#Warp-Main4&&detour=warp://p2@188.114.97.3:908#Warp in Warp
-
-warp://p1@162.159.192178:908? ifp = 5 - 10 & ifps = 40 - 100 & ifpd = 4 - 8 & ifpm = m4 # Warp - IR5 && detour = warp :// p2 @ 162 . 159 . 192 . 178 : 908 # Warp in Warp 
-warp:// p1 @ 162 . 159 . 192 . 178 : 908 ? ifp = 5 - 10 & ifps = 40 - 100 & ifpd = 4 - 8 & ifpm = m4 # Warp - Main5 && detour = warp :// p2 @ 162 . 159 . 192 . 178 : 908 # Warp in Warp 
-
-warp:// p1 @162 .159 .192246 :908 ? ifp =5 -10 & ifps =40 -100 & ifpd =4 -8 & ifpm =m4 #Warp-Main6 && detour = warp :// p2 @162 .159 .192246 :908 #Warp in Warp 
-
-warp:// p1 @188 .114 .97 .47 :908 ? ifp =5 -10 & ifps =40 -100 & ifpd =4 -8 & ifpm =m4 #Warp-Main7 && detour = warp :// p2 @188 .114 .97 .47 :908 #Warp in Warp 
-
-warp:// p1 @162 .159 .192216 :908 ? ifp =5 -10 & ifps =40 -100 & ifpd =4 -8 & ifpm =m4 #Warp-Main8 && detour = warp :// p2 @162 .159 .192216 :908 #Warp in Warp 
+warp://162.159.192.180:908/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.192.180:908/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Super-WoW-IPv4🇩🇪
