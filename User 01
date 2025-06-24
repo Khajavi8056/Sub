@@ -1,44 +1,26 @@
-vless://64d39d67-62dc-470c-a592-1d5a6ee87cb5@45.159.218.17:80?path=%2F&security=&encryption=none&host=worker-flat-disk-100d.b9563f65aef681.workers.dev&type=ws&sni=worker-flat-disk-100d.b9563f65aef681.workers.dev#%E7%BE%8E%E5%9B%BD_061520797
-vmess://eyJhZGQiOiIxMDIuMTMyLjE4OC4yIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InE3LjE5a0FsYS5jbyIsImlkIjoiMWViODZjYzgtMDMwMi00MzQ5LTk4YmUtZGM2MjEzNTZmZGNlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IuKanO+4j1RlbGVncmFtOiBASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoicTcuMTlrQWxhLmNvIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://da08534a-bfca-4ac0-bd2a-2e3846bfcbc0@104.26.13.8:2052?path=%2F&security=&encryption=none&host=q7.19kalA.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vmess://eyJhZGQiOiIxMDQuMTcuMjIzLjE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJxMi4xOWtBbGEuY28iLCJpZCI6ImZmMmQxN2M2LTBkOTYtNDgwMS1hMjcwLTlkYmE4MzM0ZjhjNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IuKanO+4j1RlbGVncmFtOiBASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://ced20efa-802d-4589-a91f-26947496c81f@188.114.99.42:80?path=%2F&security=&encryption=none&host=q3.19kala.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#4Nika-207
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.22.133:443?path=%2FdilyfCPEmLvYr5hYXD&security=tls&alpn=http%2F1.1&host=xscdfvg.20220420.pp.ua&fp=chrome&type=ws&sni=xsCdfVg.20220420.Pp.UA#4Mohsen-6037
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#4Mohsen-123
-trojan://a96cb093-b164-4bc6-bd27-deb0e385de07@104.21.68.76:443?path=%2FCNLtVWdiKPpIlRig3qizHXb&security=tls&host=ppppppppppppu.222769.xyz&type=ws&sni=pppPPpPppPpPu.222769.XYZ#4Mohsen-5613
-vmess://eyJhZGQiOiIxNzIuNjcuMjIuMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InE0LjE5a0FsYS5jbyIsImlkIjoiZTViMGIwODUtNjIzNS00MmM0LWE2MDgtYjFjNDFjM2VlZTUwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi4pqc77iPVGVsZWdyYW06IEBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter&security=&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#algo
-vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@172.67.73.48:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=q1.19KalA.co&fp=chrome&type=ws&sni=q1.19KalA.co#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vless://2e2c7764-8f74-c142-b63b-8c0b93154d0d@Dc1.zeroboostspeed.org:1231?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vless://f9d6ed93-b695-42a2-a2ed-d3a93cc7dbbb@er.radaar.top:443?path=%2F&security=&encryption=none&type=ws#66dugnwdAMIRREZA5
-trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?security=tls&type=grpc&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX&sni=channel.v2bamdad.tech#4Mohsen-3590
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@120.241.226.94:3462?security=tls&headerType=&type=tcp&sni=45.32.28.232#4Mohsen-3830
-trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443?path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&alpn=http%2F1.1&host=ssxcdfr5.986986.shop&fp=chrome&type=ws&sni=SsXCDfR5.986986.shoP#4Mohsen-3356
-trojan://Aimer@104.18.43.90:443?security=tls&headerType=&type=tcp&sni=epccg.ambercc.filegear-sg.me#4Mohsen-4420
-trojan://Aimer@162.159.142.145:443?security=tls&host=epcca.ambercc.filegear-sg.me&type=ws&sni=epcca.ambercc.filegear-sg.me#4Mohsen-4912
-trojan://Aimer@162.159.142.238:443?security=tls&host=epcca.ambercc.filegear-sg.me&type=ws&sni=epcca.ambercc.filegear-sg.me#4Mohsen-4914
-trojan://Aimer@162.159.142.25:443?security=tls&headerType=&type=tcp&sni=epccf.ambercc.filegear-sg.me#4Mohsen-4916
-trojan://Aimer@162.159.142.4:443?security=tls&headerType=&type=tcp&sni=epcca.ambercc.filegear-sg.me#4Mohsen-4917
-trojan://aTArbZ2F0E@172.66.168.226:443?path=%2Flinkvkws&security=tls&host=uSa-vp-27.bLAzECLOUD.SITE&type=ws&sni=uSa-vp-27.bLAzECLOUD.SITE#4Mohsen-5620
-trojan://a96cb093-b164-4bc6-bd27-deb0e385de07@104.21.68.76:443?path=%2FCNLtVWdiKPpIlRig3qizHXb&security=tls&alpn=http%2F1.1&host=ppppppppppppu.222769.xyz&fp=chrome&type=ws&sni=pppPPpPppPpPu.222769.XYZ#4Mohsen-5612
-trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.220.32:443?path=%2FmFvK3LJyIAe8ydvnmRKWDa8&security=tls&alpn=http%2F1.1&host=rfgthyu7.999836.xyz&fp=chrome&type=ws&sni=RFgTHYu7.999836.Xyz#4Mohsen-5601
-vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@66.235.200.94:8880?path=%2F%2B%2B%2B&security=&encryption=none&host=channel-falcunargo.efa180b5d7.workers.Dev&type=ws#%E7%BE%8E%E5%9B%BD_061520791
-vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80?path=%2F&security=&encryption=none&host=q3.19kala.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vmess://eyJhZGQiOiIxMDQuMjYuMTMuOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicTQuMTlrQWxhLmNvIiwiaWQiOiJlNWIwYjA4NS02MjM1LTQyYzQtYTYwOC1iMWM0MWMzZWVlNTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLimpzvuI9UZWxlZ3JhbTogQElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=&encryption=none&host=q6.19kalA.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicTIuMTlrQWxhLmNvIiwiaWQiOiI1Y2NmNmMxMy1mNjBmLTRjMzQtOTFlNC1jZThjZDQ0YjVmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLimpzvuI9UZWxlZ3JhbTogQElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=&encryption=none&host=q6.19kalA.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?path=%2F&security=&encryption=none&host=q5.19KAla.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.17.223.175:80?path=%2F&security=&encryption=none&host=q1.19KalA.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.26.13.8:80?path=%2F&security=&encryption=none&host=q1.19KalA.co&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40IP_CF
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.22.37.243:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yz.ylka.dpdns.org&type=ws&sni=yz.ylka.dpdns.org#4Mohsen-6803
-vless://453cc79e-6d26-409f-b512-4e3972122d79@151.101.64.155:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE
-vless://453cc79e-6d26-409f-b512-4e3972122d79@151.101.64.155:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germandiginoe.com&type=ws#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA
-vless://453cc79e-6d26-409f-b512-4e3972122d79@151.101.64.155:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE
-vless://453cc79e-6d26-409f-b512-4e3972122d79@151.101.64.155:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Finland.ss.ss&type=ws#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20%F0%9F%87%AC%F0%9F%87%A7
-vless://453cc79e-6d26-409f-b512-4e3972122d79@151.101.64.155:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germandiginoe.com&type=ws#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA
-vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@all3.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=ez.ez0535.com#%0A%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FAlgo
-vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@all3.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=ez.ez0535.com#algo
-vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@all3.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=ez.ez0535.com#hipoalgorithm%20
-vless://4d8babd8-cec2-42a1-a08f-385cd75aa3aa@Test01.beyond98.info:6250?security=&encryption=none&host=ZKDRV.divarcdn.com%2CZKDRV.gap.im%2CZKDRV.yjc.ir%2CZKDRV.iranlms.ir%2CZKDRV.adliran.com&headerType=http&type=tcp#Beyond98
+💎 سرور مجازی شما با موفقیت ساخته شد و  هم اکنون قابل استفاده است
+
+🖥  🇮🇳 Webyne-18510
+🆔 18510
+
+☁️ ایپی ۴: 38.226.125.8
+👤 یوزرنیم: root
+🔐 پسورد: Q06MuKR49qPtMm1dYK03
+
+
+
+◈ ترافیک سرورهای ساعتی به صورت روزانه محاسبه میشوند (ترافیک ماهانه تقسیم بر ۳۰) و در صورت اتمام حد مجاز روزانه ی ترافیک خاموش خواهند شد و امکان مدیریت آن از دسترس کاربر خارج میشود
+
+◈ فرآیند تکمیل نصب سیستم‌عامل سرورها، بسته به دیتاسنتر و نوع سیستم‌عامل، ممکن است تا ۱۵ دقیقه طول بکشد. اگر پس از ایجاد سرور نتوانستید به آن متصل شوید، لطفاً چند دقیقه صبر کنید و دوباره تلاش کنید.
+
+◈  استفاده از سرورها برای : هک (کرک اکانت سایت ها ،Net Scan ،Port Scan ،IP Scan ،تست نفوذ)،دیداس ،اسپم ، فیشینگ ،ماین ، تورنت ، نقض قوانین کپی رایت ممنوع است و در صورت مشاهده سرور شما بصورت خودکار حذف میشود.
+
+◈ مسئولیت حصول اطمینان از امنیت سرور و جلوگیری از وقوع هرگونه با کاربر می باشد، درصورت استفاده نادرست از سرور ها و دریافت Abuse از سمت دیتاسنتر دسترسی سرور مورد نظر از کاربر گرفته شده و  حساب کاربری مشمول جریمه نقدی خواهد شد که این مبلغ در هر کیس با توجه به نوع ابیوز متفاوت است
+
+◈  حتما از رمز های قوی استفاده کنید ، سرور هایی که رمز های آسان دارند ، به سادگی کِرک میشوند ، در صورت کرک شدن، سرور بدون اطلاع قبلی بصورت خودکار حذف میشود.
+
+◈ به دلیل ماهیت سرورهای ابری و شرایط ویژه‌ی زیرساخت ارتباطات اینترنتی و بین‌المللی، هیچگونه تضمینی در مورد کیفیت IP دریافت شده از ربات ارائه نمی‌شود. بنابراین مسئولیت حصول اطمینان از این امر و انجام تست‌های لازم بر عهده‌ی کاربر می‌باشد.
+
+◈  استفاده از سرور برای ساخت پروکسی - VPN - پروکسی تلگرام  موجب فیلتر شدن IP سرور شما می‌شود ، مسئولیت فیلتر شدن IP سرور به عهده خودتان میباشد.
+
+◈ امکان بازیابی و برگشت سرور حذف شده به هیچ عنوان وجود نخواهد داشت از کافی بودن موجودی کیف پول برای تمدید سرور اطمینان حاصل کنید
