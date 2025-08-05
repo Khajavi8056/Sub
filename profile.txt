@@ -4,18 +4,865 @@
 //support-url: https://t.me/hipoalgorithm
 //profile-web-page-url: https://hipoalgorithm.ir
 
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?flow=&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&security=reality&sid=&sni=refersion.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9IT
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&type=ws#Hipo%20
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@141.227.140.218:3037?flow=&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&security=reality&sid=&sni=refersion.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9IT
-vless://27ab1462-5fa9-47f0-c7fe-f8e83f4be942@65.109.208.107:2083?flow=&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&security=reality&serviceName=melov2ray&sid=54602915a7&sni=khamenei.ir&type=grpc#%F0%9F%87%AB%F0%9F%87%AEFI
-vless://260f4e3a-e436-47a0-86c8-4c2b60aa17f8@book.srv2.quest:28796?flow=&fp=chrome&pbk=lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc&security=reality&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sid=2eb360&sni=journalofbigdata.springeropen.com&type=grpc#%E2%9D%94XX%20(2)
-vless://e5c31f13-b10a-4e9c-bfa6-09454bc5e65c@a.nl.maviks.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&security=reality&sid=21181028b56c8702&sni=www.apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL%20(5)
-vless://51b676c4-7fc2-46b9-a26a-2834e2db7046@bonefletcher.fonixapp.org:51886?flow=xtls-rprx-vision&fp=chrome&pbk=bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE&security=reality&sid=c6&sni=stackoverflow.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE%20(13)
-vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=175d&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE%20(14)
-vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@us01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US%20(1)
-vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@ita01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9IT
-vless://1b38f1a4-5d20-44a9-a4d3-ca621ebfefbf@[2a03:b0c0:3:f0:0:1:230e:f000]:27270?flow=&fp=chrome&pbk=OMYgAO-fEdI3x7diLQDd2-xTkEMNNCeeYDhuweqex0c&security=reality&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sid=ab&sni=journalofbigdata.springeropen.com&type=grpc#%E2%9D%94XX%20(4)
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?flow=&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&security=reality&sid=4ae260&sni=yahoo.com&type=tcp#%F0%9F%87%AD%F0%9F%87%BAHU
-vless://24d0e335-659e-45c7-8e61-0bd899c1d510@62.60.178.200:40792?flow=&fp=chrome&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&security=reality&sid=5a&sni=www.latimes.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US%20(2)
-vless://e4848d5d-3380-45ff-f9d5-48cb1f492926@91.99.97.62:51479?flow=&fp=chrome&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&security=reality&serviceName=%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&sid=&sni=www.cdn77.com&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE%20(25)
-vless://77834f67-2b29-4adf-b39b-b4f1bcd729dc@91.99.216.9:8443?flow=&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&security=reality&sid=27e6b66aa77662fb&sni=refersion.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE%20(27)
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com",
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "dns.cloudflare.com": [
+        "104.16.132.229",
+        "104.16.133.229",
+        "2606:4700::6810:84e5",
+        "2606:4700::6810:85e5"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.248.249",
+        "104.16.249.249",
+        "2606:4700::6810:f8f9",
+        "2606:4700::6810:f9f9"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ],
+      "a.nl.maviks.ru": [
+        "194.49.53.185",
+        "185.193.158.8",
+        "193.228.196.124",
+        "185.193.158.9",
+        "185.193.158.11",
+        "193.228.196.126",
+        "194.49.53.187",
+        "194.49.53.186",
+        "194.49.53.184",
+        "185.193.158.10",
+        "193.228.196.127",
+        "193.228.196.125"
+      ],
+      "book.srv2.quest": "2a01:4f9:c011:27b9::1",
+      "ita01-vlr01.tcp-reset-club.net": "185.248.144.97",
+      "www.speedtest.net.cdn.cloudflare.net": [
+        "104.17.147.22",
+        "104.17.148.22"
+      ],
+      "us01-vlr01.tcp-reset-club.net": "77.110.114.3",
+      "bonefletcher.fonixapp.org": "202.78.163.59",
+      "it.panelmarzban.com": "141.227.140.218"
+    },
+    "servers": [
+      "1.1.1.1",
+      {
+        "address": "1.1.1.1",
+        "domains": [
+          "domain:googleapis.cn",
+          "domain:gstatic.com"
+        ]
+      },
+      {
+        "address": "223.5.5.5",
+        "domains": [
+          "domain:alidns.com",
+          "domain:doh.pub",
+          "domain:dot.pub",
+          "domain:360.cn",
+          "domain:onedns.net",
+          "geosite:cn"
+        ],
+        "expectIPs": [
+          "geoip:cn"
+        ],
+        "skipFallback": true
+      }
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true,
+        "routeOnly": false
+      },
+      "tag": "socks"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "observatory": {
+    "enableConcurrency": true,
+    "probeInterval": "3m",
+    "probeUrl": "https://www.gstatic.com/generate_204",
+    "subjectSelector": [
+      "proxy-"
+    ]
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "a.nl.maviks.ru",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "e5c31f13-b10a-4e9c-bfa6-09454bc5e65c",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ",
+          "serverName": "www.apple.com",
+          "shortId": "21181028b56c8702",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIPv4v6"
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-1"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "91.99.216.9",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "77834f67-2b29-4adf-b39b-b4f1bcd729dc",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
+          "serverName": "refersion.com",
+          "shortId": "27e6b66aa77662fb",
+          "show": false
+        },
+        "security": "reality",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-2"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.112.1",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "headers": {
+            "Host": "zoomgov.vipren.biz.id"
+          },
+          "path": "/193.123.81.105=443"
+        }
+      },
+      "tag": "proxy-3"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "91.99.97.62",
+            "port": 51479,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "e4848d5d-3380-45ff-f9d5-48cb1f492926",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "grpcSettings": {
+          "authority": "",
+          "health_check_timeout": 20,
+          "idle_timeout": 60,
+          "multiMode": false,
+          "serviceName": "@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM"
+        },
+        "network": "grpc",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg",
+          "serverName": "www.cdn77.com",
+          "show": false
+        },
+        "security": "reality"
+      },
+      "tag": "proxy-4"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "book.srv2.quest",
+            "port": 28796,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "260f4e3a-e436-47a0-86c8-4c2b60aa17f8",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "grpcSettings": {
+          "authority": "",
+          "health_check_timeout": 20,
+          "idle_timeout": 60,
+          "multiMode": false,
+          "serviceName": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
+        },
+        "network": "grpc",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc",
+          "serverName": "journalofbigdata.springeropen.com",
+          "shortId": "2eb360",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIPv4v6"
+        }
+      },
+      "tag": "proxy-5"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ita01-vlr01.tcp-reset-club.net",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+          "serverName": "hls-svod.itunes.apple.com",
+          "shortId": "86e999a2cdc2",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIPv4v6"
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-6"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "5.182.38.91",
+            "port": 17267,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
+          "serverName": "yahoo.com",
+          "shortId": "4ae260",
+          "show": false
+        },
+        "security": "reality",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-7"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "136.243.79.227",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "d0a86835-954b-4c2d-9f35-584ce0e052be",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+          "serverName": "hls-svod.itunes.apple.com",
+          "shortId": "175d",
+          "show": false
+        },
+        "security": "reality",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-8"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "www.speedtest.net.cdn.cloudflare.net",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "323b04df-9596-4b4b-a0dc-27bec648e28f",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "sockopt": {
+          "domainStrategy": "UseIPv4v6"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "NIce-APartMEnt.ZULAir.ORg"
+          },
+          "path": "/?ed=2048"
+        }
+      },
+      "tag": "proxy-9"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "us01-vlr01.tcp-reset-club.net",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+          "serverName": "hls-svod.itunes.apple.com",
+          "shortId": "8453e5fd9af927",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIPv4v6"
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-10"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "bonefletcher.fonixapp.org",
+            "port": 51886,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "51b676c4-7fc2-46b9-a26a-2834e2db7046",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE",
+          "serverName": "stackoverflow.com",
+          "shortId": "c6",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIPv4v6"
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-11"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "141.227.140.218",
+            "port": 3037,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "a0a3e34d-87e4-4ff3-b04a-875c85325d62",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
+          "serverName": "refersion.com",
+          "show": false
+        },
+        "security": "reality",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-12"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "it.panelmarzban.com",
+            "port": 3037,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "a0a3e34d-87e4-4ff3-b04a-875c85325d62",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
+          "serverName": "refersion.com",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIPv4v6"
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-13"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.33.24.229",
+            "port": 28495,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "7e296434-2d17-48d3-928d-19eaa34aecb1",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "chrome",
+          "publicKey": "KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ",
+          "serverName": "dl.google.com",
+          "shortId": "0ecc2c1392",
+          "show": false
+        },
+        "security": "reality",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-14"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "remarks": "Intelligent Selection",
+  "routing": {
+    "balancers": [
+      {
+        "selector": [
+          "proxy-"
+        ],
+        "strategy": {
+          "type": "leastPing"
+        },
+        "tag": "proxy-round"
+      }
+    ],
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "balancerTag": "proxy-round",
+        "ip": [
+          "1.1.1.1"
+        ],
+        "port": "53",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "223.5.5.5"
+        ],
+        "outboundTag": "direct",
+        "port": "53",
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "domain": [
+          "domain:googleapis.cn",
+          "domain:gstatic.com"
+        ],
+        "type": "field"
+      },
+      {
+        "network": "udp",
+        "outboundTag": "block",
+        "port": "443",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:private"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "223.5.5.5",
+          "223.6.6.6",
+          "2400:3200::1",
+          "2400:3200:baba::1",
+          "119.29.29.29",
+          "1.12.12.12",
+          "120.53.53.53",
+          "2402:4e00::",
+          "2402:4e00:1::",
+          "180.76.76.76",
+          "2400:da00::6666",
+          "114.114.114.114",
+          "114.114.115.115",
+          "114.114.114.119",
+          "114.114.115.119",
+          "114.114.114.110",
+          "114.114.115.110",
+          "180.184.1.1",
+          "180.184.2.2",
+          "101.226.4.6",
+          "218.30.118.6",
+          "123.125.81.6",
+          "140.207.198.6",
+          "1.2.4.8",
+          "210.2.4.8",
+          "52.80.66.66",
+          "117.50.22.22",
+          "2400:7fc0:849e:200::4",
+          "2404:c2c0:85d8:901::4",
+          "117.50.10.10",
+          "52.80.52.52",
+          "2400:7fc0:849e:200::8",
+          "2404:c2c0:85d8:901::8",
+          "117.50.60.30",
+          "52.80.60.30"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "domain:alidns.com",
+          "domain:doh.pub",
+          "domain:dot.pub",
+          "domain:360.cn",
+          "domain:onedns.net"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "geoip:cn"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": [
+          "geosite:cn"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "network": "tcp,udp",
+        "type": "field"
+      }
+    ]
+  }
+}
