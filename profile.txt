@@ -6,12 +6,13 @@
 
 
 
-vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?flow=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?flow=&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&type=ws#%F0%9F%87%A8%F0%9F%87%A6
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?flow=&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&type=ws#%F0%9F%87%AE%F0%9F%87%B7
-vless://2c3b3e80-a2ec-459e-b898-206ead4edc9d@46.62.139.162:29752?flow=&fp=chrome&pbk=EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs&security=reality&sid=3dd812&sni=www.tgju.org&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?flow=&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
+vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#%F0%9F%87%A9%F0%9F%87%AADE%20%2822%29
+vless://2c3b3e80-a2ec-459e-b898-206ead4edc9d@46.62.139.162:29752?security=reality&encryption=none&pbk=EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs&headerType=&fp=chrome&type=tcp&sni=www.tgju.org&sid=3dd812#%F0%9F%87%AB%F0%9F%87%AE
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#%F0%9F%87%A8%F0%9F%87%A6
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%AE%F0%9F%87%B7
+vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%F0%9F%87%BA%F0%9F%87%B8
-vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?flow=&type=tcp#%F0%9F%87%BA%F0%9F%87%B8
+vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%BA%F0%9F%87%B8
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
