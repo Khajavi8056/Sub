@@ -9,3 +9,7 @@ vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&enc
 vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&encryption=none&type=tcp&headerType=http&host=soft98.ir&path=%2F#Spain
 
 vless://97f17bd5-f179-408e-938a-9881674372dd@fra.shrekpop.com:8422?security=reality&encryption=none&fp=firefox&pbk=OWBqiLH_W5sgo8DaW3nEj0sPY2E7BSoZUWh2a5G8gRs&sni=amd.com&sid=79f71f5b04ba7e5d&type=tcp&headerType=none#France
+
+vless://58c4d669-2e96-419b-b85a-df2938e535d5@ip3-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#2
+vless://257fbf5f-f50e-49ad-b249-323c7a6c1694@208.84.101.157:730?security=reality&encryption=none&pbk=hi3D3DKT7xeraw8JzngDVpCqykQJ8VJl-mAkiDhgDW4&headerType=none&fp=firefox&type=tcp&sni=www.refersion.com&sid=8445f32e7270c597#4
+vless://977ae33e-7eca-4ea8-a6cc-a652fa687d36@free2.aattaash.com:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=free.aattaash.com#6
