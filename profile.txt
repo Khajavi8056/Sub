@@ -48,28 +48,19 @@
         "2a02:6b8::feed:0ff",
         "2a02:6b8:0:1::feed:0ff"
       ],
-      "nodejs.org": [
-        "2606:4700:10::6814:1fc",
-        "2606:4700:10::ac42:8046",
-        "172.66.128.70",
-        "104.20.1.252"
+      "FaStLy.TeMas-Bor.iR": [
+        "2606:4700:3034::6815:5669",
+        "2606:4700:3034::ac43:d9d9",
+        "104.21.86.105",
+        "172.67.217.217"
       ],
-      "sr111.cloud-files-uploader.com": "57.128.235.192",
-      "ip4.ip-54-38-3.eu": "54.38.3.4",
-      "coco.shrekpop.com": [
-        "27.50.48.0",
-        "103.133.1.20",
-        "45.153.7.8"
+      "FaStLy2.TeMas-Bor.iR": [
+        "2a06:98c1:3122::",
+        "2a06:98c1:3123::",
+        "188.114.99.0",
+        "188.114.98.0"
       ],
-      "ital.shrekpop.com": "209.46.30.0",
-      "ip50.ip-135-148-11.us": "135.148.11.50",
-      "connect.cloudhubvip.com": [
-        "192.200.160.8",
-        "194.76.18.222",
-        "194.76.18.174"
-      ],
-      "sr122.cloud-files-uploader.com": "51.38.30.155",
-      "sr4.cloud-files-uploader.com": "62.113.200.46"
+      "cloud.team-pluss.com": "63.141.128.18"
     },
     "servers": [
       "1.1.1.1",
@@ -141,12 +132,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "nodejs.org",
-            "port": 80,
+            "address": "FaStLy.TeMas-Bor.iR",
+            "port": 8080,
             "users": [
               {
                 "encryption": "none",
-                "id": "546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f",
+                "id": "1fa7ab01-221b-4e7c-961a-8a613f7b0c32",
                 "level": 8
               }
             ]
@@ -154,7 +145,7 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "xhttp",
         "sockopt": {
           "domainStrategy": "UseIP",
           "happyEyeballs": {
@@ -164,11 +155,14 @@
             "tryDelayMs": 250
           }
         },
-        "wsSettings": {
-          "headers": {
-            "Host": "bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY."
+        "xhttpSettings": {
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "xPaddingBytes": "100-1000"
           },
-          "path": "/?ed"
+          "host": "ir-1.temas-bor.ir",
+          "mode": "auto",
+          "path": "/?ed=2048"
         }
       },
       "tag": "proxy-1"
@@ -182,12 +176,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "sr111.cloud-files-uploader.com",
-            "port": 2082,
+            "address": "FaStLy2.TeMas-Bor.iR",
+            "port": 8080,
             "users": [
               {
                 "encryption": "none",
-                "id": "322da5b4-9d4d-4259-84a6-4e5f39e246d7",
+                "id": "1fa7ab01-221b-4e7c-961a-8a613f7b0c32",
                 "level": 8
               }
             ]
@@ -195,7 +189,7 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "xhttp",
         "sockopt": {
           "domainStrategy": "UseIP",
           "happyEyeballs": {
@@ -205,11 +199,14 @@
             "tryDelayMs": 250
           }
         },
-        "wsSettings": {
-          "headers": {
-            "Host": "sr111.cloud-files-uploader.com"
+        "xhttpSettings": {
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "xPaddingBytes": "100-1000"
           },
-          "path": "/"
+          "host": "ir-2.temas-bor.ir",
+          "mode": "auto",
+          "path": "/?ed=2048"
         }
       },
       "tag": "proxy-2"
@@ -223,12 +220,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "ip4.ip-54-38-3.eu",
-            "port": 2052,
+            "address": "FaStLy.TeMas-Bor.iR",
+            "port": 8080,
             "users": [
               {
                 "encryption": "none",
-                "id": "322da5b4-9d4d-4259-84a6-4e5f39e246d7",
+                "id": "1fa7ab01-221b-4e7c-961a-8a613f7b0c32",
                 "level": 8
               }
             ]
@@ -236,7 +233,7 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "xhttp",
         "sockopt": {
           "domainStrategy": "UseIP",
           "happyEyeballs": {
@@ -246,11 +243,14 @@
             "tryDelayMs": 250
           }
         },
-        "wsSettings": {
-          "headers": {
-            "Host": "ip4.ip-54-38-3.eu"
+        "xhttpSettings": {
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "xPaddingBytes": "100-1000"
           },
-          "path": "/"
+          "host": "ir-3.temas-bor.ir",
+          "mode": "auto",
+          "path": "/?ed=2048"
         }
       },
       "tag": "proxy-3"
@@ -264,12 +264,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "coco.shrekpop.com",
-            "port": 8443,
+            "address": "cloud.team-pluss.com",
+            "port": 2083,
             "users": [
               {
                 "encryption": "none",
-                "id": "97f17bd5-f179-408e-938a-9881674372dd",
+                "id": "1fa7ab01-221b-4e7c-961a-8a613f7b0c32",
                 "level": 8
               }
             ]
@@ -290,21 +290,22 @@
         },
         "tlsSettings": {
           "allowInsecure": false,
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
           "fingerprint": "chrome",
-          "serverName": "multi.shrekpop.com",
+          "serverName": "ir-1.temas-bor.ir",
           "show": false
         },
         "xhttpSettings": {
           "extra": {
-            "scMaxEachPostBytes": 1000000,
-            "scMaxConcurrentPosts": 100,
-            "scMinPostsIntervalMs": 30,
-            "xPaddingBytes": "100-1000",
-            "noGRPCHeader": false
+            "scMaxEachPostBytes": "1000000",
+            "xPaddingBytes": "100-1000"
           },
-          "host": "amcl.shrekpop.com",
+          "host": "ir-1.temas-bor.ir",
           "mode": "auto",
-          "path": "/cloudapi"
+          "path": "/"
         }
       },
       "tag": "proxy-4"
@@ -318,12 +319,113 @@
       "settings": {
         "vnext": [
           {
-            "address": "89.167.0.99",
-            "port": 7070,
+            "address": "63.141.128.18",
+            "port": 2083,
             "users": [
               {
                 "encryption": "none",
-                "id": "c8e0cef7-b3fc-4f4c-c31f-15e38f5cf124",
+                "id": "1fa7ab01-221b-4e7c-961a-8a613f7b0c32",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "ir-2.temas-bor.ir",
+          "show": false
+        },
+        "xhttpSettings": {
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "xPaddingBytes": "100-1000"
+          },
+          "host": "ir-2.temas-bor.ir",
+          "mode": "auto",
+          "path": "/"
+        }
+      },
+      "tag": "proxy-5"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "cloud.team-pluss.com",
+            "port": 2083,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "1fa7ab01-221b-4e7c-961a-8a613f7b0c32",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": true,
+            "tryDelayMs": 250
+          }
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "serverName": "ir-3.temas-bor.ir",
+          "show": false
+        },
+        "xhttpSettings": {
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "xPaddingBytes": "100-1000"
+          },
+          "host": "ir-3.temas-bor.ir",
+          "mode": "auto",
+          "path": "/"
+        }
+      },
+      "tag": "proxy-6"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "37.152.175.115",
+            "port": 882,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "1fa7ab01-221b-4e7c-961a-8a613f7b0c32",
                 "level": 8
               }
             ]
@@ -340,7 +442,7 @@
                   "keep-alive"
                 ],
                 "Host": [
-                  "Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN"
+                  "parsabr.com"
                 ],
                 "Pragma": "no-cache",
                 "Accept-Encoding": [
@@ -360,497 +462,7 @@
           }
         }
       },
-      "tag": "proxy-5"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "nodejs.org",
-            "port": 80,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "7d4a519b-d270-434e-a42d-d39624577a92",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY."
-          },
-          "path": "/?ed"
-        }
-      },
-      "tag": "proxy-6"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "nodejs.org",
-            "port": 80,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY."
-          },
-          "path": "/?ed"
-        }
-      },
       "tag": "proxy-7"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "ital.shrekpop.com",
-            "port": 8443,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "97f17bd5-f179-408e-938a-9881674372dd",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "xhttp",
-        "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "tlsSettings": {
-          "allowInsecure": false,
-          "fingerprint": "chrome",
-          "serverName": "itcl.shrekpop.com",
-          "show": false
-        },
-        "xhttpSettings": {
-          "extra": {
-            "scMaxEachPostBytes": 1000000,
-            "scMaxConcurrentPosts": 100,
-            "scMinPostsIntervalMs": 30,
-            "xPaddingBytes": "100-1000",
-            "noGRPCHeader": false
-          },
-          "host": "itcl.shrekpop.com",
-          "mode": "auto",
-          "path": "/cloudapi"
-        }
-      },
-      "tag": "proxy-8"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "ip50.ip-135-148-11.us",
-            "port": 2052,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "322da5b4-9d4d-4259-84a6-4e5f39e246d7",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "ip50.ip-135-148-11.us"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-9"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "nodejs.org",
-            "port": 80,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "6abc2840-25fd-4dd7-b1aa-0892fe98f2d9",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK."
-          },
-          "path": "/?ed"
-        }
-      },
-      "tag": "proxy-10"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "connect.cloudhubvip.com",
-            "port": 8443,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "97f17bd5-f179-408e-938a-9881674372dd",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "xhttp",
-        "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "tlsSettings": {
-          "allowInsecure": false,
-          "fingerprint": "chrome",
-          "serverName": "en.cloudhubvip.com",
-          "show": false
-        },
-        "xhttpSettings": {
-          "extra": {
-            "scMaxEachPostBytes": 1000000,
-            "scMaxConcurrentPosts": 100,
-            "scMinPostsIntervalMs": 30,
-            "xPaddingBytes": "100-1000",
-            "noGRPCHeader": false
-          },
-          "host": "en.cloudhubvip.com",
-          "mode": "auto",
-          "path": "/cloudapi"
-        }
-      },
-      "tag": "proxy-11"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "sr122.cloud-files-uploader.com",
-            "port": 2082,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "322da5b4-9d4d-4259-84a6-4e5f39e246d7",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "sr122.cloud-files-uploader.com"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-12"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "nodejs.org",
-            "port": 80,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "2a2a8023-3b4b-407d-a00a-7beb5a158148",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy."
-          },
-          "path": "/?ed"
-        }
-      },
-      "tag": "proxy-13"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "nodejs.org",
-            "port": 80,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "1a94fbd9-79d2-4aa7-bf1d-074f678d27ab",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk."
-          },
-          "path": "/?ed"
-        }
-      },
-      "tag": "proxy-14"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "coco.shrekpop.com",
-            "port": 8443,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "97f17bd5-f179-408e-938a-9881674372dd",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "xhttp",
-        "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "tlsSettings": {
-          "allowInsecure": false,
-          "fingerprint": "chrome",
-          "serverName": "socl.shrekpop.com",
-          "show": false
-        },
-        "xhttpSettings": {
-          "extra": {
-            "scMaxEachPostBytes": 1000000,
-            "scMaxConcurrentPosts": 100,
-            "scMinPostsIntervalMs": 30,
-            "xPaddingBytes": "100-1000",
-            "noGRPCHeader": false
-          },
-          "host": "socl.shrekpop.com",
-          "mode": "auto",
-          "path": "/cloudapi"
-        }
-      },
-      "tag": "proxy-15"
-    },
-    {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false
-      },
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "sr4.cloud-files-uploader.com",
-            "port": 80,
-            "users": [
-              {
-                "encryption": "none",
-                "id": "322da5b4-9d4d-4259-84a6-4e5f39e246d7",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "sockopt": {
-          "domainStrategy": "UseIP",
-          "happyEyeballs": {
-            "interleave": 2,
-            "maxConcurrentTry": 4,
-            "prioritizeIPv6": true,
-            "tryDelayMs": 250
-          }
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "sr4.cloud-files-uploader.com"
-          },
-          "path": "/"
-        }
-      },
-      "tag": "proxy-16"
     },
     {
       "protocol": "freedom",
@@ -883,7 +495,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "انتخاب هوشمند",
+  "remarks": "import subانتخاب هوشمند",
   "routing": {
     "balancers": [
       {
