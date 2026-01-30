@@ -1,3 +1,2 @@
-v2rayNG://install-config?url=https://raw.githubusercontent.com/Khajavi8056/Sub/refs/heads/main/User%2001#User_01_Mode
-v2rayNG://install-config?url=https://raw.githubusercontent.com/Khajavi8056/Sub/refs/heads/main/profile.txt#Professional_Profile
-v2rayNG://install-config?url=https://raw.githubusercontent.com/Khajavi8056/Sub/refs/heads/main/profile.txt#Emergency_Backup
+https://raw.githubusercontent.com/Khajavi8056/Sub/refs/heads/main/User%2001
+https://raw.githubusercontent.com/Khajavi8056/Sub/refs/heads/main/profile.txt
