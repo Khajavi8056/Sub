@@ -3,7 +3,7 @@
   "burstObservatory": {
     "pingConfig": {
       "destination": "https://www.gstatic.com/generate_204",
-      "interval": "5m",
+      "interval": "15m",
       "sampling": 2,
       "timeout": "30s"
     },
